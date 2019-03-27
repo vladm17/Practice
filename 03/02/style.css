@@ -1,7 +1,6 @@
 body{background-color: #990909}
-.center-img {
-    display: block;
-    margin: 0 auto;
+header {
+  text-align: center;
 }
 .container1 {
       text-align:center;
@@ -12,10 +11,6 @@ body{background-color: #990909}
 }
 img{
       margin: 0 70;
-}
-.Home figcaption {
-  text-align: center;
-  color: white;
 }
 .Home{
   max-width: 240px;
@@ -43,7 +38,7 @@ img{
     background-color:#E3DDDD;
     margin-left: 15;
     margin-right: 10;
-    }
+}
 #centertext {
   text-align: center;
   background-color:#BFC1C0;
@@ -55,7 +50,7 @@ footer {
   clear:left;
   width:100%; 
   background: #E95B11;
-  padding: 1%;
+  padding: 0.5%;
   text-align: center;
   color: white;
 }
